@@ -1,5 +1,8 @@
 _repo: Elegie-Romane_58648
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58648-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58648#Elegie-Romane
 gutenberg_issued: '2019-01-07'
 gutenberg_type: Text
 identifiers:
