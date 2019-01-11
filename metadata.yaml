@@ -1,0 +1,26 @@
+_repo: Elegie-Romane_58648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    - Annunzio, Gabriele d'
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+description: ''
+gutenberg_issued: '2019-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58648'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elegìe Romane
+url: http://www.gutenberg.org/ebooks/58648
